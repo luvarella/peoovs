@@ -1,21 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\20211011110004\\source\\repos\\luvarella\\peoovs\\aula peoo\\aula introdutória app\\aula introdutória app.csproj": {}
+    "C:\\repos\\peoovs\\aula peoo\\aula introdutória app\\aula introdutória app.csproj": {}
   },
   "projects": {
-    "C:\\Users\\20211011110004\\source\\repos\\luvarella\\peoovs\\aula peoo\\aula introdutória app\\aula introdutória app.csproj": {
+    "C:\\repos\\peoovs\\aula peoo\\aula introdutória app\\aula introdutória app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\20211011110004\\source\\repos\\luvarella\\peoovs\\aula peoo\\aula introdutória app\\aula introdutória app.csproj",
+        "projectUniqueName": "C:\\repos\\peoovs\\aula peoo\\aula introdutória app\\aula introdutória app.csproj",
         "projectName": "aula introdutória app",
-        "projectPath": "C:\\Users\\20211011110004\\source\\repos\\luvarella\\peoovs\\aula peoo\\aula introdutória app\\aula introdutória app.csproj",
+        "projectPath": "C:\\repos\\peoovs\\aula peoo\\aula introdutória app\\aula introdutória app.csproj",
         "packagesPath": "C:\\Users\\20211011110004\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\20211011110004\\source\\repos\\luvarella\\peoovs\\aula peoo\\aula introdutória app\\obj\\",
+        "outputPath": "C:\\repos\\peoovs\\aula peoo\\aula introdutória app\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\20211011110004\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0-windows7.0"
@@ -57,7 +62,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
         }
       }
     }

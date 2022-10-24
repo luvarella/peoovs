@@ -5,19 +5,19 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:aula3"
         mc:Ignorable="d"
-        Title="Retângulo" Height="200" Width="400">
+        Title="Retângulo" Height="200" Width="280">
     <Grid>
         <GroupBox Header = "Área e Diagonal">
             <Grid>
-                <TextBlock HorizontalAlignment="Left" Margin="10,13,0,0" Text="TextBlock" TextWrapping="Wrap" VerticalAlignment="Top"/>
-                <TextBlock HorizontalAlignment="Left" Margin="135,13,0,0" Text="TextBlock" TextWrapping="Wrap" VerticalAlignment="Top"/>
-                <TextBox HorizontalAlignment="Left" Margin="10,34,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
-                <TextBox HorizontalAlignment="Left" Margin="135,34,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
-                <Button Content="Button" HorizontalAlignment="Left" Margin="11,64,0,0" VerticalAlignment="Top"/>
-                <TextBlock HorizontalAlignment="Left"  Margin="11,97,0,0" Text="TextBlock" TextWrapping="Wrap" VerticalAlignment="Top"/>
-                <TextBlock HorizontalAlignment="Left" Margin="135,97,0,0" Text="TextBlock" TextWrapping="Wrap" VerticalAlignment="Top"/>
-                <TextBox HorizontalAlignment="Left" Margin="11,118,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
-                <TextBox HorizontalAlignment="Left" Margin="135,118,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                <TextBlock HorizontalAlignment="Left" Margin="10,13,0,0" Text="Base" TextWrapping="Wrap" VerticalAlignment="Top"/>
+                <TextBlock HorizontalAlignment="Left" Margin="135,13,0,0" Text="Altura" TextWrapping="Wrap" VerticalAlignment="Top"/>
+                <TextBox x:Name="txtBase" HorizontalAlignment="Left" Margin="10,34,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                <TextBox x:Name="txtAltura" HorizontalAlignment="Left" Margin="135,34,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                <Button Content="Calcular" HorizontalAlignment="Left" Margin="11,64,0,0" VerticalAlignment="Top" Click="Button_Click_1"/>
+                <TextBlock HorizontalAlignment="Left"  Margin="11,97,0,0" Text="Área" TextWrapping="Wrap" VerticalAlignment="Top"/>
+                <TextBlock HorizontalAlignment="Left" Margin="135,97,0,0" Text="Diagonal" TextWrapping="Wrap" VerticalAlignment="Top"/>
+                <TextBox x:Name="txtArea" HorizontalAlignment="Left" Margin="11,118,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                <TextBox x:Name="txtDiagonal" HorizontalAlignment="Left" Margin="135,118,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
             </Grid>
         </GroupBox>
     </Grid>
