@@ -1,4 +1,3 @@
-C:\Users\20211011110004\source\repos\peoovs\escolhinha\escolhinha\obj\Debug\net5.0-windows\escolhinha.csproj.AssemblyReference.cache
 C:\Users\20211011110004\source\repos\peoovs\escolhinha\escolhinha\obj\Debug\net5.0-windows\AlunoWindow.g.cs
 C:\Users\20211011110004\source\repos\peoovs\escolhinha\escolhinha\obj\Debug\net5.0-windows\DiarioWindow.g.cs
 C:\Users\20211011110004\source\repos\peoovs\escolhinha\escolhinha\obj\Debug\net5.0-windows\MainWindow.g.cs
